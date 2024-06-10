@@ -14,7 +14,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=650&theme=merko) -->
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=650&theme=merko" alt="Top Langs" width="300" style="margin-right: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=650&theme=merko" alt="Top Langs" width="700" style="margin-right: 15px;">
 </div>
 </br>
 
