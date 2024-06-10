@@ -7,10 +7,13 @@
 </br>
 </br>
 
-![octocat](https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)
 </br>
+
+<p align="right">
+  <img src="https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0" alt="Octocat" width="200">
+</p>
 
 - ## Contacts:
 <div>
