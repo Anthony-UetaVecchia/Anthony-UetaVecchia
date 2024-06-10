@@ -10,9 +10,7 @@
 <a href = "tony.ueta@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-api/top-langs?username=anuraghazra
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
 
 <!--
 **Anthony-UetaVecchia/Anthony-UetaVecchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
