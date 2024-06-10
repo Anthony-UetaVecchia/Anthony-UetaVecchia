@@ -2,21 +2,18 @@
 ### Allow me to introduce myself, I am Anthony!
 </br>
 
-<div>
-  <div>
-    - 🔭 I’m currently trying to have my first professional experience in the programming and developing area
-    - 🌱 I’m currently learning HTML, CSS and JavaScript
-    </br>
-    </br>
-  
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)
-    </br>
-  </div>
-  
-  <p align="right">
-    <img src="https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0" alt="Octocat" width="500">
-  </p>
-</div>
+<p align="right">
+  <img src="https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0" alt="Octocat" width="500">
+</p>
+
+- 🔭 I’m currently trying to have my first professional experience in the programming and developing area
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+</br>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)
+</br>
+
 - ## Contacts:
 <div>
   <a href="https://www.linkedin.com/in/anthony-ueta-vecchia-23568b2b7" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
