@@ -5,6 +5,8 @@
 <div style="display: flex; align-items: center;">
   <p>
     - 🔭 I’m currently trying to have my first professional experience in the programming and developing area
+  </p>
+  <p>
     - 🌱 I’m currently learning HTML, CSS and JavaScript
   </p>
   <p align="right">
