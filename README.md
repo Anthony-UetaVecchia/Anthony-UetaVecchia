@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=700&theme=merko)
+-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)
 
 - ## Contacts:
 <div>
