@@ -12,7 +12,7 @@
 </br>
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)</p>
 </br>
 
 - ## Contacts:
