@@ -2,22 +2,19 @@
 ### Allow me to introduce myself, I am Anthony!
 </br>
 
-<div style="display: flex; align-items: center;">
-  <p>
-    - 🔭 I’m currently trying to have my first professional experience in the programming and developing area
-  </p>
-  <p>
-    - 🌱 I’m currently learning HTML, CSS and JavaScript
-  </p>
-  <p align="right">
-    <img src="https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0" alt="Octocat" width="300">
-  </p>
+<div display="inline-block">
+    <p align="left">- 🔭 I’m currently trying to have my first professional experience in the programming and developing area</p>
+    <p align="left">- 🌱 I’m currently learning HTML, CSS and JavaScript</p>
 </div>
 </br>
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=800&theme=merko)
 </br>
+
+<p align="right">
+  <img src="https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0" alt="Octocat" width="300px">
+</p>
 
 - ## Contacts:
 <div>
