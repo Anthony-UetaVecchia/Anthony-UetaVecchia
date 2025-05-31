@@ -1,37 +1,45 @@
-### 👋 Welcome to my Github!
-### Allow me to introduce myself, I am Anthony!
-</br>
-</br>
+# Olá! Eu sou o Anthony 👋
 
-<div>
-    <img align="right" style="margin-right: 15px;" src="https://github.com/Anthony-UetaVecchia/Anthony-UetaVecchia/assets/106551939/f8bd8b4b-c5f4-4b11-849d-37086bd926a0" alt="Octocat" width="300px">
-    <div display="inline-block">
-        <p align="left">- 🔭 I’m currently trying to have my first professional experience in the programming and developing area</p>
-        <p align="left">- 🌱 I’m currently learning Python</p>
-    </div>
-</div>
-</br>
-</br>
+🎓 Técnico em Análise e Desenvolvimento de Sistemas  
+🐍 Foco em desenvolvimento com Python (Django, APIs REST, automações)  
+🧠 Entusiasta de tecnologia e aprendizado contínuo  
+📌 Atualmente me aprofundando em desenvolvimento web com Python e ferramentas modernas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=500&theme=merko)
-</br>
+---
 
-- ## Contacts:
-<div>
-  <a href="https://www.linkedin.com/in/anthony-ueta-vecchia-23568b2b7" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- <a href = "mailto:tony.ueta@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-</div>
-<!--
-**Anthony-UetaVecchia/Anthony-UetaVecchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor em início de carreira com sólida base acadêmica em **Python**, tendo estudado frameworks como **Django** e **Django REST Framework**, além de lógica de programação, orientação a objetos e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco aplicar meus conhecimentos em projetos práticos, colaborando com soluções eficientes, bem estruturadas e com código limpo. Também tenho interesse crescente por automações, bots e inteligência artificial, áreas que venho explorando em meus estudos.
+
+Tenho facilidade com uso de **Git** e **SQL básico**, e estou sempre buscando aprender mais — seja com documentação, cursos ou experimentando na prática.
+
+---
+
+## 🧰 Tecnologias que estudo e utilizo
+
+- **Python** (foco principal)
+- Django & Django REST
+- HTML, CSS, JavaScript (nível básico/intermediário)
+- SQL (consultas, manipulação de dados)
+- Git e GitHub
+
+---
+
+## 📌 Repositórios em destaque
+
+📎 Veja abaixo alguns projetos que representam meus aprendizados e evolução prática.  
+Sempre busco documentar bem os repositórios e manter o código limpo e compreensível.
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anthony-ueta-vecchia-23568b2b7)
+- 🐙 Confira meus repositórios aqui no GitHub!
+
+---
+
+🔍 *Em busca da primeira oportunidade como Desenvolvedor Python, onde eu possa crescer junto com o time, aprender com desafios reais e contribuir com dedicação e vontade de evoluir!*
+
